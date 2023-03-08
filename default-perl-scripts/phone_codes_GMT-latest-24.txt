@@ -1,0 +1,1135 @@
+code	country	areacode	state	GMT	DST	DST_RANGE	GEOGRAPHIC DESCRIPTION	TZ_CODE	PHP_TZ
+1	USA	201	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	202	DC	-5	Y	SSM-FSN	District of Columbia	EST	America/New_York
+1	USA	203	CT	-5	Y	SSM-FSN	Connecticut	EST	America/New_York
+1	CAN	204	MB	-6	Y	SSM-FSN	Manitoba	CST	America/Winnipeg
+1	USA	205	AL	-6	Y	SSM-FSN	Alabama	CST	America/Chicago
+1	USA	206	WA	-8	Y	SSM-FSN	Washington	PST	America/Los_Angeles
+1	USA	207	ME	-5	Y	SSM-FSN	Maine	EST	America/New_York
+1	USA	208	ID	-7	Y	SSM-FSN	Idaho	MST	America/Denver
+1	USA	209	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	210	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	212	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	213	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	214	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	215	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	216	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	USA	217	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	218	MN	-6	Y	SSM-FSN	Minnesota	CST	America/Chicago
+1	USA	219	IN	-6	Y	SSM-FSN	Indiana	CST	America/Chicago
+1	USA	220	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	USA	223	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	224	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	225	LA	-6	Y	SSM-FSN	Louisiana	CST	America/Chicago
+1	CAN	226	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	227	MD	-5	Y	SSM-FSN	Maryland	EST	America/New_York
+1	USA	228	MS	-6	Y	SSM-FSN	Mississippi	CST	America/Chicago
+1	USA	229	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	231	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	234	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	CAN	236	BC	-8	Y	SSM-FSN	British Columbia	PST	America/Vancouver
+1	USA	239	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	240	MD	-5	Y	SSM-FSN	Maryland	EST	America/New_York
+1	BHS	242		-5	Y	FSA-LSO	Bahamas	EST	America/Nassau
+1	BRB	246		-4	N		Barbados	AST	America/Barbados
+1	USA	248	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	CAN	249	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	CAN	250	BC	-8	Y	SSM-FSN	British Columbia	PST	America/Vancouver
+1	USA	251	AL	-6	Y	SSM-FSN	Alabama	CST	America/Chicago
+1	USA	252	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	USA	253	WA	-8	Y	SSM-FSN	Washington	PST	America/Los_Angeles
+1	USA	254	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	256	AL	-6	Y	SSM-FSN	Alabama	CST	America/Chicago
+1	USA	260	IN	-5	Y	SSM-FSN	Indiana	EST	America/New_York
+1	USA	262	WI	-6	Y	SSM-FSN	Wisconsin	CST	America/Chicago
+1	CAN	263	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	AIA	264		-4	N		Anguilla	AST	America/Anguilla
+1	USA	267	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	ATG	268		-4	N		Antigua and Barbuda	AST	America/Antigua
+1	USA	269	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	270	KY	-6	Y	SSM-FSN	Kentucky	CST	America/Chicago
+1	USA	272	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	274	WI	-6	Y	SSM-FSN	Wisconsin	CST	America/Chicago
+1	USA	276	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	USA	278	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	279	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	280	MD	-5	Y	SSM-FSN	Maryland	EST	America/New_York
+1	USA	281	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	282	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	283	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	VGB	284		-4	N		British Virgin Islands	AST	America/Puerto_Rico
+1	CAN	289	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	ABW	297		-4	N		Aruba	AST	America/Aruba
+1	USA	301	MD	-5	Y	SSM-FSN	Maryland	EST	America/New_York
+1	USA	302	DE	-5	Y	SSM-FSN	Delaware	EST	America/New_York
+1	USA	303	CO	-7	Y	SSM-FSN	Colorado	MST	America/Denver
+1	USA	304	WV	-5	Y	SSM-FSN	West Virginia	EST	America/New_York
+1	USA	305	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	CAN	306	SK	-6	N		Saskatchewan	CST	America/Regina
+1	USA	307	WY	-7	Y	SSM-FSN	Wyoming	MST	America/Denver
+1	USA	308	NE	-6	Y	SSM-FSN	Nebraska	CST	America/Chicago
+1	USA	309	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	310	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	312	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	313	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	314	MO	-6	Y	SSM-FSN	Missouri	CST	America/Chicago
+1	USA	315	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	316	KS	-6	Y	SSM-FSN	Kansas	CST	America/Chicago
+1	USA	317	IN	-5	Y	SSM-FSN	Indiana	EST	America/New_York
+1	USA	318	LA	-6	Y	SSM-FSN	Louisiana	CST	America/Chicago
+1	USA	319	IA	-6	Y	SSM-FSN	Iowa	CST	America/Chicago
+1	USA	320	MN	-6	Y	SSM-FSN	Minnesota	CST	America/Chicago
+1	USA	321	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	323	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	325	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	326	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	USA	327	AR	-6	Y	SSM-FSN	Arkansas	CST	America/Chicago
+1	USA	330	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	USA	331	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	332	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	334	AL	-6	Y	SSM-FSN	Alabama	CST	America/Chicago
+1	USA	336	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	USA	337	LA	-6	Y	SSM-FSN	Louisiana	CST	America/Chicago
+1	USA	339	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	VIR	340		-4	N		Virgin Islands	AST	America/Puerto_Rico
+1	USA	341	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	CAN	343	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	CYM	345		-5	Y	FSA-LSO	Cayman Islands	EST	America/Cayman
+1	USA	346	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	347	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	351	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	USA	352	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	CAN	354	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	358	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	360	WA	-8	Y	SSM-FSN	Washington	PST	America/Los_Angeles
+1	USA	361	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	363	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	364	KY	-6	Y	SSM-FSN	Kentucky	CST	America/Chicago
+1	CAN	365	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	CAN	367	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	CAN	368	AB	-7	Y	SSM-FSN	Alberta	MST	America/Edmonton
+1	USA	369	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	380	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	CAN	382	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	385	UT	-7	Y	SSM-FSN	Utah	MST	America/Denver
+1	USA	386	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	401	RI	-5	Y	SSM-FSN	Rhode Island	EST	America/New_York
+1	USA	402	NE	-6	Y	SSM-FSN	Nebraska	CST	America/Chicago
+1	CAN	403	AB	-7	Y	SSM-FSN	Alberta	MST	America/Edmonton
+1	USA	404	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	405	OK	-6	Y	SSM-FSN	Oklahoma	CST	America/Chicago
+1	USA	406	MT	-7	Y	SSM-FSN	Montana	MST	America/Denver
+1	USA	407	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	408	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	409	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	410	MD	-5	Y	SSM-FSN	Maryland	EST	America/New_York
+1	USA	412	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	413	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	USA	414	WI	-6	Y	SSM-FSN	Wisconsin	CST	America/Chicago
+1	USA	415	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	CAN	416	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	417	MO	-6	Y	SSM-FSN	Missouri	CST	America/Chicago
+1	CAN	418	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	419	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	USA	423	TN	-5	Y	SSM-FSN	Tennessee	EST	America/New_York
+1	USA	424	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	425	WA	-8	Y	SSM-FSN	Washington	PST	America/Los_Angeles
+1	CAN	428	NB	-4	Y	SSM-FSN	New Brunswick	AST	America/Moncton
+1	USA	430	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	CAN	431	MB	-6	Y	SSM-FSN	Manitoba	CST	America/Winnipeg
+1	USA	432	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	434	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	USA	435	UT	-7	Y	SSM-FSN	Utah	MST	America/Denver
+1	CAN	437	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	CAN	438	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	440	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	BMU	441		-4	Y	FSA-LSO	Bermuda	AST	Atlantic/Bermuda
+1	USA	442	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	443	MD	-5	Y	SSM-FSN	Maryland	EST	America/New_York
+1	USA	445	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	447	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	448	FL	-6	Y	SSM-FSN	Florida	CST	America/Chicago
+1	CAN	450	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	458	OR	-8	Y	SSM-FSN	Oregon	PST	America/Los_Angeles
+1	USA	463	IN	-5	Y	SSM-FSN	Indiana	EST	America/New_York
+1	USA	464	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	CAN	468	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	469	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	470	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	472	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	GRD	473		-4	N		Grenada	AST	America/Grenada
+1	CAN	474	SK	-6	N		Saskatchewan	CST	America/Regina
+1	USA	475	CT	-5	Y	SSM-FSN	Connecticut	EST	America/New_York
+1	USA	478	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	479	AR	-6	Y	SSM-FSN	Arkansas	CST	America/Chicago
+1	USA	480	AZ	-7	N		Arizona	MST	America/Phoenix
+1	USA	484	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	501	AR	-6	Y	SSM-FSN	Arkansas	CST	America/Chicago
+1	USA	502	KY	-5	Y	SSM-FSN	Kentucky	EST	America/New_York
+1	USA	503	OR	-8	Y	SSM-FSN	Oregon	PST	America/Los_Angeles
+1	USA	504	LA	-6	Y	SSM-FSN	Louisiana	CST	America/Chicago
+1	USA	505	NM	-7	Y	SSM-FSN	New Mexico	MST	America/Denver
+1	CAN	506	NB	-4	Y	SSM-FSN	New Brunswick	AST	America/Moncton
+1	USA	507	MN	-6	Y	SSM-FSN	Minnesota	CST	America/Chicago
+1	USA	508	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	USA	509	WA	-8	Y	SSM-FSN	Washington	PST	America/Los_Angeles
+1	USA	510	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	512	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	513	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	CAN	514	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	515	IA	-6	Y	SSM-FSN	Iowa	CST	America/Chicago
+1	USA	516	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	517	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	518	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	CAN	519	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	520	AZ	-7	N		Arizona	MST	America/Phoenix
+1	USA	530	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	531	NE	-6	Y	SSM-FSN	Nebraska	CST	America/Chicago
+1	USA	534	WI	-6	Y	SSM-FSN	Wisconsin	CST	America/Chicago
+1	USA	539	OK	-6	Y	SSM-FSN	Oklahoma	CST	America/Chicago
+1	USA	540	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	USA	541	OR	-8	Y	SSM-FSN	Oregon	PST	America/Los_Angeles
+1	USA	546	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	CAN	548	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	551	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	557	MO	-6	Y	SSM-FSN	Missouri	CST	America/Chicago
+1	USA	559	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	561	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	562	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	563	IA	-6	Y	SSM-FSN	Iowa	CST	America/Chicago
+1	USA	564	WA	-8	Y	SSM-FSN	Washington	PST	America/Los_Angeles
+1	USA	567	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	USA	570	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	571	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	USA	572	OK	-6	Y	SSM-FSN	Oklahoma	CST	America/Chicago
+1	USA	573	MO	-6	Y	SSM-FSN	Missouri	CST	America/Chicago
+1	USA	574	IN	-5	Y	SSM-FSN	Indiana	EST	America/New_York
+1	USA	575	NM	-7	Y	SSM-FSN	New Mexico	MST	America/Denver
+1	CAN	579	QU	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	580	OK	-6	Y	SSM-FSN	Oklahoma	CST	America/Chicago
+1	CAN	581	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	582	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	CAN	584	MB	-6	Y	SSM-FSN	Manitoba	CST	America/Winnipeg
+1	USA	585	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	586	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	CAN	587	AB	-7	Y	SSM-FSN	Alberta	MST	America/Edmonton
+1	GLP	590		-4	N		Guadeloupe	AST	America/Guadeloupe
+1	MTQ	596		-4	N		Martinique	AST	America/Martinique
+1	CUW	599		-4	N		Antilles	AST	America/Curacao
+1	USA	601	MS	-6	Y	SSM-FSN	Mississippi	CST	America/Chicago
+1	USA	602	AZ	-7	N		Arizona	MST	America/Phoenix
+1	USA	603	NH	-5	Y	SSM-FSN	New Hampshire	EST	America/New_York
+1	CAN	604	BC	-8	Y	SSM-FSN	British Columbia	PST	America/Vancouver
+1	USA	605	SD	-6	Y	SSM-FSN	South Dakota	CST	America/Chicago
+1	USA	606	KY	-5	Y	SSM-FSN	Kentucky	EST	America/New_York
+1	USA	607	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	608	WI	-6	Y	SSM-FSN	Wisconsin	CST	America/Chicago
+1	USA	609	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	610	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	612	MN	-6	Y	SSM-FSN	Minnesota	CST	America/Chicago
+1	CAN	613	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	614	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	USA	615	TN	-6	Y	SSM-FSN	Tennessee	CST	America/Chicago
+1	USA	616	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	617	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	USA	618	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	619	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	620	KS	-6	Y	SSM-FSN	Kansas	CST	America/Chicago
+1	USA	623	AZ	-7	N		Arizona	MST	America/Phoenix
+1	USA	626	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	627	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	628	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	629	TN	-6	Y	SSM-FSN	Tennessee	CST	America/Chicago
+1	USA	630	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	631	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	636	MO	-6	Y	SSM-FSN	Missouri	CST	America/Chicago
+1	CAN	639	SK	-6	N		Saskatchewan	CST	America/Regina
+1	USA	640	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	641	IA	-6	Y	SSM-FSN	Iowa	CST	America/Chicago
+1	USA	645	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	646	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	CAN	647	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	TCA	649		-5	Y	FSA-LSO	Turks Islands	EST	America/New_York
+1	USA	650	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	651	MN	-6	Y	SSM-FSN	Minnesota	CST	America/Chicago
+1	USA	656	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	657	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	JAM	658		-5	N		Jamaica	EST	America/Jamaica
+1	USA	659	AL	-6	Y	SSM-FSN	Alabama	CST	America/Chicago
+1	USA	660	MO	-6	Y	SSM-FSN	Missouri	CST	America/Chicago
+1	USA	661	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	662	MS	-6	Y	SSM-FSN	Mississippi	CST	America/Chicago
+1	MSR	664		-4	N		Montserrat	AST	America/Montserrat
+1	USA	667	MD	-5	Y	SSM-FSN	Maryland	EST	America/New_York
+1	USA	669	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	MNP	670	MP	+10	N		Mariana Islands	ChST	Pacific/Saipan
+1	GUM	671	GU	+10	N		Guam	GST	Pacific/Guam
+1	CAN	672	BC	-8	Y	SSM-FSN	British Columbia	PST	America/Vancouver
+1	USA	678	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	679	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	680	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	681	WV	-5	Y	SSM-FSN	West Virginia	EST	America/New_York
+1	USA	682	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	CAN	683	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	ASM	684		-11	N		American Samoa	SST	Pacific/Pago_Pago
+1	USA	689	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	701	ND	-6	Y	SSM-FSN	North Dakota	CST	America/Chicago
+1	USA	702	NV	-8	Y	SSM-FSN	Nevada	PST	America/Los_Angeles
+1	USA	703	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	USA	704	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	CAN	705	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	706	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	707	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	708	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	CAN	709	NF	-3.5	Y	SSM-FSN	Newfoundland	NST	America/St_Johns
+1	USA	712	IA	-6	Y	SSM-FSN	Iowa	CST	America/Chicago
+1	USA	713	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	714	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	715	WI	-6	Y	SSM-FSN	Wisconsin	CST	America/Chicago
+1	USA	716	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	717	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	718	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	719	CO	-7	Y	SSM-FSN	Colorado	MST	America/Denver
+1	USA	720	CO	-7	Y	SSM-FSN	Colorado	MST	America/Denver
+1	NLD	721		-4	N		St. Maarten	AST	America/St_Barthelemy
+1	USA	724	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	725	NV	-8	Y	SSM-FSN	Nevada	PST	America/Los_Angeles
+1	USA	726	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	727	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	728	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	730	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	731	TN	-6	Y	SSM-FSN	Tennessee	CST	America/Chicago
+1	USA	732	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	734	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	737	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	740	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	CAN	742	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	743	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	USA	747	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	752	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	CAN	753	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	754	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	757	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	LCA	758		-4	N		St. Lucia	AST	America/St_Lucia
+1	USA	760	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	762	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	763	MN	-6	Y	SSM-FSN	Minnesota	CST	America/Chicago
+1	USA	764	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	765	IN	-5	Y	SSM-FSN	Indiana	EST	America/New_York
+1	DMA	767		-4	N		Dominica	AST	America/Dominica
+1	USA	769	MS	-6	Y	SSM-FSN	Mississippi	CST	America/Chicago
+1	USA	770	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	771	DC	-5	Y	SSM-FSN	District of Columbia	EST	America/New_York
+1	USA	772	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	773	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	774	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	USA	775	NV	-8	Y	SSM-FSN	Nevada	PST	America/Los_Angeles
+1	CAN	778	BC	-8	Y	SSM-FSN	British Columbia	PST	America/Vancouver
+1	USA	779	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	CAN	780	AB	-7	Y	SSM-FSN	Alberta	MST	America/Edmonton
+1	USA	781	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	CAN	782	NS	-4	Y	SSM-FSN	Nova Scotia	AST	America/Moncton
+1	VCT	784		-4	N		St. Vincent	AST	America/St_Vincent
+1	USA	785	KS	-6	Y	SSM-FSN	Kansas	CST	America/Chicago
+1	USA	786	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	PRI	787	PR	-4	N		Puerto Rico	AST	America/Puerto_Rico
+1	USA	801	UT	-7	Y	SSM-FSN	Utah	MST	America/Denver
+1	USA	802	VT	-5	Y	SSM-FSN	Vermont	EST	America/New_York
+1	USA	803	SC	-5	Y	SSM-FSN	South Carolina	EST	America/New_York
+1	USA	804	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	USA	805	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	806	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	CAN	807	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	808	HI	-10	N		Hawaii	HST	Pacific/Honolulu
+1	DOM	809		-4	N		Dominican Republic	AST	America/Santo_Domingo
+1	USA	810	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	812	IN	-5	Y	SSM-FSN	Indiana	EST	America/New_York
+1	USA	813	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	814	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	815	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	816	MO	-6	Y	SSM-FSN	Missouri	CST	America/Chicago
+1	USA	817	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	818	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	CAN	819	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	USA	820	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	CAN	825	AB	-7	Y	SSM-FSN	Alberta	MST	America/Edmonton
+1	USA	826	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	USA	828	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	DOM	829		-4	N		Dominican Republic	AST	America/Santo_Domingo
+1	USA	830	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	831	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	832	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	835	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	USA	838	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	839	SC	-5	Y	SSM-FSN	South Carolina	EST	America/New_York
+1	USA	840	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	843	SC	-5	Y	SSM-FSN	South Carolina	EST	America/New_York
+1	USA	845	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	847	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	848	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	DOM	849		-4	N		Dominican Republic	AST	America/Santo_Domingo
+1	USA	850	FL	-6	Y	SSM-FSN	Florida	CST	America/Chicago
+1	USA	854	SC	-5	Y	SSM-FSN	South Carolina	EST	America/New_York
+1	USA	856	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	857	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	USA	858	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	859	KY	-5	Y	SSM-FSN	Kentucky	EST	America/New_York
+1	USA	860	CT	-5	Y	SSM-FSN	Connecticut	EST	America/New_York
+1	USA	861	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	USA	862	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	863	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	864	SC	-5	Y	SSM-FSN	South Carolina	EST	America/New_York
+1	USA	865	TN	-5	Y	SSM-FSN	Tennessee	EST	America/New_York
+1	CAN	867	YT	-7	N		Yukon	MST	America/Whitehorse
+1	TTO	868		-4	N		Trinidad and Tobago	AST	America/Grand_Turk
+1	KNA	869		-4	N		St. Kitts and Nevis	AST	America/St_Kitts
+1	USA	870	AR	-6	Y	SSM-FSN	Arkansas	CST	America/Chicago
+1	USA	872	IL	-6	Y	SSM-FSN	Illinois	CST	America/Chicago
+1	CAN	873	QC	-5	Y	SSM-FSN	Quebec	EST	America/Toronto
+1	JAM	876		-5	N		Jamaica	EST	America/Jamaica
+1	USA	878	PA	-5	Y	SSM-FSN	Pennsylvania	EST	America/New_York
+1	CAN	879	NF	-3.5	Y	SSM-FSN	Newfoundland	NST	America/St_Johns
+1	USA	901	TN	-6	Y	SSM-FSN	Tennessee	CST	America/Chicago
+1	CAN	902	NS	-4	Y	SSM-FSN	Nova Scotia	AST	America/Moncton
+1	USA	903	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	904	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	CAN	905	ON	-5	Y	SSM-FSN	Ontario	EST	America/Toronto
+1	USA	906	MI	-6	Y	SSM-FSN	Michigan	CST	America/Chicago
+1	USA	907	AK	-9	Y	SSM-FSN	Alaska	AKST	America/Anchorage
+1	USA	908	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	909	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	910	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	USA	912	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	913	KS	-6	Y	SSM-FSN	Kansas	CST	America/Chicago
+1	USA	914	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	915	TX	-7	Y	SSM-FSN	Texas	MST	America/Denver
+1	USA	916	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	917	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	918	OK	-6	Y	SSM-FSN	Oklahoma	CST	America/Chicago
+1	USA	919	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	USA	920	WI	-6	Y	SSM-FSN	Wisconsin	CST	America/Chicago
+1	USA	925	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	927	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	928	AZ	-7	N		Arizona	MST	America/Phoenix
+1	USA	929	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	930	IN	-5	Y	SSM-FSN	Indiana	EST	America/New_York
+1	USA	931	TN	-6	Y	SSM-FSN	Tennessee	CST	America/Chicago
+1	USA	934	NY	-5	Y	SSM-FSN	New York	EST	America/New_York
+1	USA	935	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	936	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	937	OH	-5	Y	SSM-FSN	Ohio	EST	America/New_York
+1	USA	938	AL	-6	Y	SSM-FSN	Alabama	CST	America/Chicago
+1	USA	939	PR	-4	N		Puerto Rico	AST	America/Puerto_Rico
+1	USA	940	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	941	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	943	GA	-5	Y	SSM-FSN	Georgia	EST	America/New_York
+1	USA	945	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	947	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+1	USA	948	VA	-5	Y	SSM-FSN	Virginia	EST	America/New_York
+1	USA	949	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	951	CA	-8	Y	SSM-FSN	California	PST	America/Los_Angeles
+1	USA	952	MN	-6	Y	SSM-FSN	Minnesota	CST	America/Chicago
+1	USA	954	FL	-5	Y	SSM-FSN	Florida	EST	America/New_York
+1	USA	956	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	957	NM	-7	Y	SSM-FSN	New Mexico	MST	America/Denver
+1	USA	959	CT	-5	Y	SSM-FSN	Connecticut	EST	America/New_York
+1	USA	970	CO	-7	Y	SSM-FSN	Colorado	MST	America/Denver
+1	USA	971	OR	-8	Y	SSM-FSN	Oregon	PST	America/Los_Angeles
+1	USA	972	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	973	NJ	-5	Y	SSM-FSN	New Jersey	EST	America/New_York
+1	USA	975	MO	-6	Y	SSM-FSN	Missouri	CST	America/Chicago
+1	USA	978	MA	-5	Y	SSM-FSN	Massachusetts	EST	America/New_York
+1	USA	979	TX	-6	Y	SSM-FSN	Texas	CST	America/Chicago
+1	USA	980	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	USA	983	CO	-7	Y	SSM-FSN	Colorado	MST	America/Denver
+1	USA	984	NC	-5	Y	SSM-FSN	North Carolina	EST	America/New_York
+1	USA	985	LA	-6	Y	SSM-FSN	Louisiana	CST	America/Chicago
+1	USA	986	ID	-7	Y	SSM-FSN	Idaho	MST	America/Denver
+1	USA	989	MI	-5	Y	SSM-FSN	Michigan	EST	America/New_York
+7	RUS	*		+3	Y	LSM-LSO	Russia	MSK	Europe/Moscow
+7	KAZ	*		+6	N		Kazakhstan	ALMT	Asia/Almaty
+7	TJK	*		+5	N		Tajikistan	TJT	Asia/Dushanbe
+7	TKM	*		+5	N		Turkmenistan	TMT	Asia/Ashgabat
+7	KGZ	*		+6	N		Kyrgyzstan	KGT	Asia/Bishkek
+20	EGY	*		+2	Y	LTA-LTS	Egypt	EET	Africa/Cairo
+27	ZAF	*		+2	N		South Africa	SAST	Africa/Johannesburg
+30	GRC	*		+2	Y	LSM-LSO	Greece	EET	Europe/Athens
+31	NLD	*		+1	Y	LSM-LSO	Netherlands Holland	CET	Europe/Amsterdam
+32	BEL	*		+1	Y	LSM-LSO	Belgium	CET	Europe/Brussels
+33	FRA	*		+1	Y	LSM-LSO	France	CET	Europe/Paris
+34	ESP	*		+1	Y	LSM-LSO	Spain	CET	Europe/Madrid
+36	HUN	*		+1	Y	LSM-LSO	Hungary	CET	Europe/Budapest
+39	ITA	*		+1	Y	LSM-LSO	Italy	CET	Europe/Rome
+39	VAT	*		+1	Y	LSM-LSO	Vatican City	CET	Europe/Vatican
+40	ROU	*		+2	Y	LSM-LSO	Romania	EET	Europe/Bucharest
+41	CHE	*		+1	Y	LSM-LSO	Switzerland	CET	Europe/Zurich
+42	CZE	*		+1	Y	LSM-LSO	Czech Republic	CET	Europe/Prague
+43	AUT	*		+1	Y	LSM-LSO	Austria	CET	Europe/Vienna
+44	GBR	*		0	Y	LSM-LSO	Great Britain United Kingdom	GMT	Europe/London
+45	DNK	*		+1	Y	LSM-LSO	Denmark	CET	Europe/Copenhagen
+46	SWE	*		+1	Y	LSM-LSO	Sweden	CET	Europe/Stockholm
+47	NOR	*		+1	Y	LSM-LSO	Norway	CET	Europe/Oslo
+48	POL	*		+1	Y	LSM-LSO	Poland	CET	Europe/Warsaw
+49	DEU	*		+1	Y	LSM-LSO	Germany	CET	Europe/Berlin
+51	PER	*		-5	N		Peru	PET	America/Lima
+52	MEX	221		-6	Y	FSA-LSO	Puebla, Pue.	CST	America/Mexico_City
+52	MEX	222		-6	Y	FSA-LSO	Puebla, Pue.	CST	America/Mexico_City
+52	MEX	223		-6	Y	FSA-LSO	Magdalena Tetela Morelos, La	CST	America/Mexico_City
+52	MEX	224		-6	Y	FSA-LSO	Almolonga Todos Santos jp	CST	America/Mexico_City
+52	MEX	225		-6	Y	FSA-LSO	Palmilla, Laakr	CST	America/Mexico_City
+52	MEX	226		-6	Y	FSA-LSO	Altotongar	CST	America/Mexico_City
+52	MEX	227		-6	Y	FSA-LSO	Huejotzingoq	CST	America/Mexico_City
+52	MEX	228		-6	Y	FSA-LSO	Jalapa, Ver.bze	CST	America/Mexico_City
+52	MEX	229		-6	Y	FSA-LSO	Veracruz, Ver.	CST	America/Mexico_City
+52	MEX	231		-6	Y	FSA-LSO	Aire Libre La Mina re	CST	America/Mexico_City
+52	MEX	232		-6	Y	FSA-LSO	Arroyo Del Potrero	CST	America/Mexico_City
+52	MEX	233		-6	Y	FSA-LSO	Ayotoxco De Guerrerok	CST	America/Mexico_City
+52	MEX	235		-6	Y	FSA-LSO	Arroyo Hondomxz	CST	America/Mexico_City
+52	MEX	236		-6	Y	FSA-LSO	Ajalpanuxh	CST	America/Mexico_City
+52	MEX	237		-6	Y	FSA-LSO	San Antonio Texcalapr	CST	America/Mexico_City
+52	MEX	238		-6	Y	FSA-LSO	Tehuacan	CST	America/Mexico_City
+52	MEX	241		-6	Y	FSA-LSO	Apizaco, Tlax.vae	CST	America/Mexico_City
+52	MEX	243		-6	Y	FSA-LSO	Ahuatlanrv	CST	America/Mexico_City
+52	MEX	244		-6	Y	FSA-LSO	Atlixco, Pue.u	CST	America/Mexico_City
+52	MEX	245		-6	Y	FSA-LSO	Atzitzintlam	CST	America/Mexico_City
+52	MEX	246		-6	Y	FSA-LSO	Tlaxcala, Tlax.	CST	America/Mexico_City
+52	MEX	247		-6	Y	FSA-LSO	Huamantlaia	CST	America/Mexico_City
+52	MEX	248		-6	Y	FSA-LSO	San Martin Texmelucan	CST	America/Mexico_City
+52	MEX	249		-6	Y	FSA-LSO	Acatzingo De Hidalgo	CST	America/Mexico_City
+52	MEX	271		-6	Y	FSA-LSO	Cordoba	CST	America/Mexico_City
+52	MEX	272		-6	Y	FSA-LSO	Orizaba, Ver.rb	CST	America/Mexico_City
+52	MEX	273		-6	Y	FSA-LSO	Boca Del Monte	CST	America/Mexico_City
+52	MEX	274		-6	Y	FSA-LSO	Acatlan De Perez Figueroaz	CST	America/Mexico_City
+52	MEX	275		-6	Y	FSA-LSO	Acaxtlahuacan De Albino Zertucheci	CST	America/Mexico_City
+52	MEX	276		-6	Y	FSA-LSO	Atlzayancanxj	CST	America/Mexico_City
+52	MEX	278		-6	Y	FSA-LSO	Capilla, Las	CST	America/Mexico_City
+52	MEX	279		-6	Y	FSA-LSO	Acatlanir	CST	America/Mexico_City
+52	MEX	281		-6	Y	FSA-LSO	Loma Bonitanyn	CST	America/Mexico_City
+52	MEX	282		-6	Y	FSA-LSO	Altos, Losrq	CST	America/Mexico_City
+52	MEX	283		-6	Y	FSA-LSO	Abasolo Del Valle	CST	America/Mexico_City
+52	MEX	284		-6	Y	FSA-LSO	Angel R. Cabadagyt	CST	America/Mexico_City
+52	MEX	285		-6	Y	FSA-LSO	Cocuite, Elnjr	CST	America/Mexico_City
+52	MEX	287		-6	Y	FSA-LSO	Benemerito Juarez Palo Gacho yhy	CST	America/Mexico_City
+52	MEX	288		-6	Y	FSA-LSO	Aculag	CST	America/Mexico_City
+52	MEX	294		-6	Y	FSA-LSO	Catemacosbw	CST	America/Mexico_City
+52	MEX	296		-6	Y	FSA-LSO	Antigua, La	CST	America/Mexico_City
+52	MEX	297		-6	Y	FSA-LSO	Alvarado	CST	America/Mexico_City
+52	MEX	311	NAY	-7	Y	FSA-LSO	Tepic, Nay.big	MST	America/Chihuahua
+52	MEX	312		-6	Y	FSA-LSO	Colima, Col.n	CST	America/Mexico_City
+52	MEX	313		-6	Y	FSA-LSO	Augusto Gomez Villanueva Coalatilla	CST	America/Mexico_City
+52	MEX	314		-6	Y	FSA-LSO	Manzanillo, Col.jbq	CST	America/Mexico_City
+52	MEX	315		-6	Y	FSA-LSO	Barra De Navidadbe	CST	America/Mexico_City
+52	MEX	316		-6	Y	FSA-LSO	Ayutlagj	CST	America/Mexico_City
+52	MEX	317		-6	Y	FSA-LSO	Ahuacapanmrk	CST	America/Mexico_City
+52	MEX	318	COL	-6	Y	FSA-LSO	QUESERIA	CST	America/Mexico_City
+52	MEX	319	NAY	-7	Y	FSA-LSO	Boquita, Lamya	MST	America/Chihuahua
+52	MEX	321		-6	Y	FSA-LSO	Ayuquilaej	CST	America/Mexico_City
+52	MEX	322	NAY	-7	Y	FSA-LSO	Puerto Vallarta, Jal.b	MST	America/Chihuahua
+52	MEX	323	NAY	-7	Y	FSA-LSO	Amapartd	MST	America/Chihuahua
+52	MEX	324	NAY	-7	Y	FSA-LSO	Ahuacatlanbm	MST	America/Chihuahua
+52	MEX	325	NAY	-7	Y	FSA-LSO	Acaponetaeyw	MST	America/Chihuahua
+52	MEX	326		-6	Y	FSA-LSO	Atemajac De Brizuela	CST	America/Mexico_City
+52	MEX	327	NAY	-7	Y	FSA-LSO	Amado Nervo El Conde	MST	America/Chihuahua
+52	MEX	328		-6	Y	FSA-LSO	Capulin, El	CST	America/Mexico_City
+52	MEX	329	NAY	-7	Y	FSA-LSO	Buceriasq	MST	America/Chihuahua
+52	MEX	330		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	331		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	332		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	333		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	334		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	335		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	336		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	337		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	338		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	339		-6	Y	FSA-LSO	Guadalajara, Jal. y Zonas Conurbadastbh 	CST	America/Mexico_City
+52	MEX	341		-6	Y	FSA-LSO	Ciudad Guzman	CST	America/Mexico_City
+52	MEX	342		-6	Y	FSA-LSO	Sayulaq	CST	America/Mexico_City
+52	MEX	343		-6	Y	FSA-LSO	Ejutla	CST	America/Mexico_City
+52	MEX	344		-6	Y	FSA-LSO	Huisquilcoq	CST	America/Mexico_City
+52	MEX	345		-6	Y	FSA-LSO	Ayotlankbe	CST	America/Mexico_City
+52	MEX	346		-6	Y	FSA-LSO	Apulco	CST	America/Mexico_City
+52	MEX	347		-6	Y	FSA-LSO	Mirandillasw	CST	America/Mexico_City
+52	MEX	348		-6	Y	FSA-LSO	Allende	CST	America/Mexico_City
+52	MEX	349		-6	Y	FSA-LSO	Atengo	CST	America/Mexico_City
+52	MEX	351		-6	Y	FSA-LSO	Zamora, Mich.	CST	America/Mexico_City
+52	MEX	352		-6	Y	FSA-LSO	La Piedad, Mich.bt	CST	America/Mexico_City
+52	MEX	353		-6	Y	FSA-LSO	Sahuayo, Mich.	CST	America/Mexico_City
+52	MEX	354		-6	Y	FSA-LSO	Atapanw	CST	America/Mexico_City
+52	MEX	355		-6	Y	FSA-LSO	Carapanipw	CST	America/Mexico_City
+52	MEX	356		-6	Y	FSA-LSO	Charcos, Losa	CST	America/Mexico_City
+52	MEX	357		-6	Y	FSA-LSO	Arado, Locx	CST	America/Mexico_City
+52	MEX	358		-6	Y	FSA-LSO	Garita, Lapb	CST	America/Mexico_City
+52	MEX	359		-6	Y	FSA-LSO	Guandarok	CST	America/Mexico_City
+52	MEX	371		-6	Y	FSA-LSO	Atenquiquex	CST	America/Mexico_City
+52	MEX	372		-6	Y	FSA-LSO	Amacueca	CST	America/Mexico_City
+52	MEX	373		-6	Y	FSA-LSO	Caqada De Las Floresf	CST	America/Mexico_City
+52	MEX	374		-6	Y	FSA-LSO	Amatitanmte	CST	America/Mexico_City
+52	MEX	375		-6	Y	FSA-LSO	Amecak	CST	America/Mexico_City
+52	MEX	376		-6	Y	FSA-LSO	Ajijiccc	CST	America/Mexico_City
+52	MEX	377		-6	Y	FSA-LSO	Coculav	CST	America/Mexico_City
+52	MEX	378		-6	Y	FSA-LSO	Tepatitlan, Jal.a	CST	America/Mexico_City
+52	MEX	379	MICH	-6	Y	FSA-LSO	NUMARAN	CST	America/Mexico_City
+52	MEX	381		-6	Y	FSA-LSO	Cojumatlan De Reguleshuj	CST	America/Mexico_City
+52	MEX	382		-6	Y	FSA-LSO	Mazamitla	CST	America/Mexico_City
+52	MEX	383		-6	Y	FSA-LSO	Chavindaiq	CST	America/Mexico_City
+52	MEX	384		-6	Y	FSA-LSO	Ahuisculco	CST	America/Mexico_City
+52	MEX	385		-6	Y	FSA-LSO	Buenavista	CST	America/Mexico_City
+52	MEX	386		-6	Y	FSA-LSO	Ahualulco De Mercadoryd	CST	America/Mexico_City
+52	MEX	387		-6	Y	FSA-LSO	Acatlan De Juarezgr	CST	America/Mexico_City
+52	MEX	388		-6	Y	FSA-LSO	Atenguillo	CST	America/Mexico_City
+52	MEX	389	NAY	-7	Y	FSA-LSO	Milpas Viejasze	MST	America/Chihuahua
+52	MEX	391		-6	Y	FSA-LSO	Atotonilco El Altoak	CST	America/Mexico_City
+52	MEX	392		-6	Y	FSA-LSO	Ocotlan	CST	America/Mexico_City
+52	MEX	393		-6	Y	FSA-LSO	Barca, Lamu	CST	America/Mexico_City
+52	MEX	394		-6	Y	FSA-LSO	Barrio, Elmz	CST	America/Mexico_City
+52	MEX	395		-6	Y	FSA-LSO	San Diego De Alejandriae	CST	America/Mexico_City
+52	MEX	411		-6	Y	FSA-LSO	Calera, La El Canario	CST	America/Mexico_City
+52	MEX	412		-6	Y	FSA-LSO	Comonfortk	CST	America/Mexico_City
+52	MEX	413		-6	Y	FSA-LSO	Apaseo El Alto	CST	America/Mexico_City
+52	MEX	414		-6	Y	FSA-LSO	Fuente, Laepi	CST	America/Mexico_City
+52	MEX	415		-6	Y	FSA-LSO	San Miguel de Allende, Gto.y	CST	America/Mexico_City
+52	MEX	417		-6	Y	FSA-LSO	Acambarowyq	CST	America/Mexico_City
+52	MEX	418		-6	Y	FSA-LSO	Adjuntas Del Rio  Las Adjuntas aqe	CST	America/Mexico_City
+52	MEX	419		-6	Y	FSA-LSO	Ajuchitlandec	CST	America/Mexico_City
+52	MEX	421		-6	Y	FSA-LSO	Coroneor	CST	America/Mexico_City
+52	MEX	422		-6	Y	FSA-LSO	Ario De Rosales	CST	America/Mexico_City
+52	MEX	423		-6	Y	FSA-LSO	Ahuirany	CST	America/Mexico_City
+52	MEX	424		-6	Y	FSA-LSO	Bonifacio Moreno  El Aguaje 	CST	America/Mexico_City
+52	MEX	425		-6	Y	FSA-LSO	Antunez  Morelos 	CST	America/Mexico_City
+52	MEX	426		-6	Y	FSA-LSO	Aguilillaisx	CST	America/Mexico_City
+52	MEX	427		-6	Y	FSA-LSO	Polotitlan	CST	America/Mexico_City
+52	MEX	428		-6	Y	FSA-LSO	Carreton, Elnxf	CST	America/Mexico_City
+52	MEX	429		-6	Y	FSA-LSO	Abasoloazi	CST	America/Mexico_City
+52	MEX	431		-6	Y	FSA-LSO	Caqadas De Obregonc	CST	America/Mexico_City
+52	MEX	432		-6	Y	FSA-LSO	Calzada De La Merced, Lawxm	CST	America/Mexico_City
+52	MEX	433		-6	Y	FSA-LSO	Benito Juarezrun	CST	America/Mexico_City
+52	MEX	434		-6	Y	FSA-LSO	Acuitzio Del Canje	CST	America/Mexico_City
+52	MEX	435		-6	Y	FSA-LSO	Angao  Angao De Los Herrera 	CST	America/Mexico_City
+52	MEX	436		-6	Y	FSA-LSO	Cantabriaz	CST	America/Mexico_City
+52	MEX	437		-6	Y	FSA-LSO	Atolinga	CST	America/Mexico_City
+52	MEX	438		-6	Y	FSA-LSO	Barranca, Layq	CST	America/Mexico_City
+52	MEX	441		-6	Y	FSA-LSO	Agua Zarcac	CST	America/Mexico_City
+52	MEX	442		-6	Y	FSA-LSO	Queretaro	CST	America/Mexico_City
+52	MEX	443		-6	Y	FSA-LSO	Morelia, Mich.q	CST	America/Mexico_City
+52	MEX	444		-6	Y	FSA-LSO	San Luis Potosi	CST	America/Mexico_City
+52	MEX	445		-6	Y	FSA-LSO	Moroleon	CST	America/Mexico_City
+52	MEX	447		-6	Y	FSA-LSO	Apeopwp	CST	America/Mexico_City
+52	MEX	448		-6	Y	FSA-LSO	Amealcoz	CST	America/Mexico_City
+52	MEX	449		-6	Y	FSA-LSO	Aguascalientes, Ags.n	CST	America/Mexico_City
+52	MEX	451		-6	Y	FSA-LSO	Araron	CST	America/Mexico_City
+52	MEX	452		-6	Y	FSA-LSO	Uruapan, Mich.d	CST	America/Mexico_City
+52	MEX	453		-6	Y	FSA-LSO	Apatzingan De La Constitucione	CST	America/Mexico_City
+52	MEX	454		-6	Y	FSA-LSO	Agua Caliente  Ojo De Agua 	CST	America/Mexico_City
+52	MEX	455		-6	Y	FSA-LSO	Alvaro Obregonjrb	CST	America/Mexico_City
+52	MEX	456		-6	Y	FSA-LSO	Cerro Colorado	CST	America/Mexico_City
+52	MEX	457		-6	Y	FSA-LSO	Chalchihuites	CST	America/Mexico_City
+52	MEX	458		-6	Y	FSA-LSO	Barril, El	CST	America/Mexico_City
+52	MEX	459		-6	Y	FSA-LSO	Caracuaro De Morelos	CST	America/Mexico_City
+52	MEX	461		-6	Y	FSA-LSO	Celaya, Gto.xad	CST	America/Mexico_City
+52	MEX	462		-6	Y	FSA-LSO	Irapuato, Gto.hhm	CST	America/Mexico_City
+52	MEX	463		-6	Y	FSA-LSO	Huanuscoub	CST	America/Mexico_City
+52	MEX	464		-6	Y	FSA-LSO	Salamanca, Gto.ur	CST	America/Mexico_City
+52	MEX	465		-6	Y	FSA-LSO	Carbonerasz	CST	America/Mexico_City
+52	MEX	466		-6	Y	FSA-LSO	Cupareoyu	CST	America/Mexico_City
+52	MEX	467		-6	Y	FSA-LSO	Apozold	CST	America/Mexico_City
+52	MEX	468		-6	Y	FSA-LSO	Covadongathp	CST	America/Mexico_City
+52	MEX	469		-6	Y	FSA-LSO	Atarjea, Lawmc	CST	America/Mexico_City
+52	MEX	471		-6	Y	FSA-LSO	Acuitzeramow	CST	America/Mexico_City
+52	MEX	472		-6	Y	FSA-LSO	Aguas Buenast	CST	America/Mexico_City
+52	MEX	473		-6	Y	FSA-LSO	Guanajuato, Gto.u	CST	America/Mexico_City
+52	MEX	474		-6	Y	FSA-LSO	Lagos de Moreno, Jal.n	CST	America/Mexico_City
+52	MEX	475		-6	Y	FSA-LSO	Bajio De San Josegs	CST	America/Mexico_City
+52	MEX	476		-6	Y	FSA-LSO	Caqada De Negrosmzx	CST	America/Mexico_City
+52	MEX	477		-6	Y	FSA-LSO	Leon	CST	America/Mexico_City
+52	MEX	478		-6	Y	FSA-LSO	General Enrique Estrada	CST	America/Mexico_City
+52	MEX	479		-6	Y	FSA-LSO	Leon	CST	America/Mexico_City
+52	MEX	481		-6	Y	FSA-LSO	Ciudad Valles, S.L.P.jn	CST	America/Mexico_City
+52	MEX	482		-6	Y	FSA-LSO	Agua Buenar	CST	America/Mexico_City
+52	MEX	483		-6	Y	FSA-LSO	Chalchocoyoqi	CST	America/Mexico_City
+52	MEX	485		-6	Y	FSA-LSO	Bledosejg	CST	America/Mexico_City
+52	MEX	486		-6	Y	FSA-LSO	Armadillo De Los Infanteh	CST	America/Mexico_City
+52	MEX	487		-6	Y	FSA-LSO	Arroyo Secomw	CST	America/Mexico_City
+52	MEX	488		-6	Y	FSA-LSO	Cedral	CST	America/Mexico_City
+52	MEX	489		-6	Y	FSA-LSO	Ahuacatlanchi	CST	America/Mexico_City
+52	MEX	492		-6	Y	FSA-LSO	Zacatecas, Zac.yk	CST	America/Mexico_City
+52	MEX	493		-6	Y	FSA-LSO	Fresnillo, Zac.	CST	America/Mexico_City
+52	MEX	494		-6	Y	FSA-LSO	Cargadero, Elcr	CST	America/Mexico_City
+52	MEX	495		-6	Y	FSA-LSO	Calvillo	CST	America/Mexico_City
+52	MEX	496		-6	Y	FSA-LSO	Amarillas De Esparza  Amarillas p	CST	America/Mexico_City
+52	MEX	498		-6	Y	FSA-LSO	Boquilla De Arriba	CST	America/Mexico_City
+52	MEX	499		-6	Y	FSA-LSO	Atitanacdp	CST	America/Mexico_City
+52	MEX	550		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	551		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	552		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	553		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	554		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	555		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	556		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	557		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	558		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	559		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	560		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	561		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	562		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	563		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	564		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	565		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	566		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	567		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	568		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	569		-6	Y	FSA-LSO	Ciudad de Mexico, D.F.	CST	America/Mexico_City
+52	MEX	586	MEX	-6	Y	FSA-LSO	TLALMANALCO	CST	America/Mexico_City
+52	MEX	587	MEX	-6	Y	FSA-LSO	AMECAMECA	CST	America/Mexico_City
+52	MEX	588		-6	Y	FSA-LSO	Arana, Los	CST	America/Mexico_City
+52	MEX	589	MEX	-6	Y	FSA-LSO	JUCHITEPEC	CST	America/Mexico_City
+52	MEX	591		-6	Y	FSA-LSO	Praderas Del Potrero	CST	America/Mexico_City
+52	MEX	592		-6	Y	FSA-LSO	Jaltepec	CST	America/Mexico_City
+52	MEX	593		-6	Y	FSA-LSO	Coyotepec	CST	America/Mexico_City
+52	MEX	594		-6	Y	FSA-LSO	San Marcos Nepantla, Mex.khq	CST	America/Mexico_City
+52	MEX	595		-6	Y	FSA-LSO	Texcoco, Mex.edd	CST	America/Mexico_City
+52	MEX	596		-6	Y	FSA-LSO	Reyes Acozac, Losr	CST	America/Mexico_City
+52	MEX	597		-6	Y	FSA-LSO	Amecameca De Juarezkp	CST	America/Mexico_City
+52	MEX	599		-6	Y	FSA-LSO	Apaxco De Ocampoun	CST	America/Mexico_City
+52	MEX	612	BCS	-7	Y	FSA-LSO	La Paz, B.C.S.fj	MST	America/Chihuahua
+52	MEX	613	BCS	-7	Y	FSA-LSO	Ciudad Constituciona	MST	America/Chihuahua
+52	MEX	614	CHIH	-7	Y	FSA-LSO	Chihuahua, Chih.ns	MST	America/Chihuahua
+52	MEX	615	BCS	-7	Y	FSA-LSO	Bahia Asuncionnu	MST	America/Chihuahua
+52	MEX	616	BC	-8	Y	FSA-LSO	Camalun	PST	America/Tijuana
+52	MEX	618		-6	Y	FSA-LSO	Durango, Dgo.tkn	CST	America/Mexico_City
+52	MEX	621	CHIH	-7	Y	FSA-LSO	Julimese	MST	America/Chihuahua
+52	MEX	622	SON	-7	N		Guaymas, Son.yw	MST	America/Hermosillo
+52	MEX	623	SON	-7	N		Aconchi	MST	America/Hermosillo
+52	MEX	624	BCS	-7	Y	FSA-LSO	San Jose del Cabo	MST	America/Chihuahua
+52	MEX	625	CHIH	-7	Y	FSA-LSO	Ciudad Cuauhtemoc	MST	America/Chihuahua
+52	MEX	626	CHIH	-7	Y	FSA-LSO	Manuel Benavidesu	MST	America/Chihuahua
+52	MEX	627	CHIH	-7	Y	FSA-LSO	Parral, Chih.	MST	America/Chihuahua
+52	MEX	628	CHIH	-7	Y	FSA-LSO	Mariano Matamorosgjt	MST	America/Chihuahua
+52	MEX	629	CHIH	-7	Y	FSA-LSO	Ceballoskp	MST	America/Chihuahua
+52	MEX	631	SON	-7	N		Nogales, Son.	MST	America/Hermosillo
+52	MEX	632	SON	-7	N		Imurisb	MST	America/Hermosillo
+52	MEX	633	SON	-7	N		Agua Prietag	MST	America/Hermosillo
+52	MEX	634	SON	-7	N		Abanico, Elt	MST	America/Hermosillo
+52	MEX	635	CHIH	-7	Y	FSA-LSO	Areponapuchim	MST	America/Chihuahua
+52	MEX	636	CHIH	-7	Y	FSA-LSO	Ascensionb	MST	America/Chihuahua
+52	MEX	637	SON	-7	N		Altar	MST	America/Hermosillo
+52	MEX	638	SON	-7	N		Choya, Latp	MST	America/Hermosillo
+52	MEX	639	CHIH	-7	Y	FSA-LSO	Ciudad Delicias, Chih.mfj	MST	America/Chihuahua
+52	MEX	641	SON	-7	N		Benjamin Hillnde	MST	America/Hermosillo
+52	MEX	642	SON	-7	N		Navojoa, Son.ir	MST	America/Hermosillo
+52	MEX	643	SON	-7	N		Agua Blancawmi	MST	America/Hermosillo
+52	MEX	644	SON	-7	N		Ciudad Obregon	MST	America/Hermosillo
+52	MEX	645	SON	-7	N		Bacoachimcj	MST	America/Hermosillo
+52	MEX	646	BC	-8	Y	FSA-LSO	Ensenada, B.C.tt	PST	America/Tijuana
+52	MEX	647	SON	-7	N		Alamosk	MST	America/Hermosillo
+52	MEX	648	CHIH	-7	Y	FSA-LSO	Boquilla De Babisas  La Boquilla De Conchos 	MST	America/Chihuahua
+52	MEX	649	CHIH	-7	Y	FSA-LSO	Baborigame	MST	America/Chihuahua
+52	MEX	651	SON	-7	N		Sonoitakhk	MST	America/Hermosillo
+52	MEX	652	CHIH	-7	Y	FSA-LSO	Largo, El	MST	America/Chihuahua
+52	MEX	653	SON	-7	N		San Luis Rio Colorado	MST	America/Hermosillo
+52	MEX	656	CHIH	-7	Y	FSA-LSO	Ciudad Juarez	MST	America/Chihuahua
+52	MEX	658	BC	-8	Y	FSA-LSO	Ciudad Morelos  Cuervos t	PST	America/Tijuana
+52	MEX	659	CHIH	-7	Y	FSA-LSO	Abraham Gonzalez	MST	America/Chihuahua
+52	MEX	661	BC	-8	Y	FSA-LSO	Playas De Rosarito	PST	America/Tijuana
+52	MEX	662	SON	-7	N		Hermosillo, Son.vkv	MST	America/Hermosillo
+52	MEX	663	BC	-8	Y	FSA-LSO	Tijuana, B.C.j	PST	America/Tijuana
+52	MEX	664	BC	-8	Y	FSA-LSO	Tijuana, B.C.j	PST	America/Tijuana
+52	MEX	665	BC	-8	Y	FSA-LSO	Tecatese	PST	America/Tijuana
+52	MEX	666	BC	-8	Y	FSA-LSO	Tijuana, B.C.j	PST	America/Tijuana
+52	MEX	667	SIN	-7	Y	FSA-LSO	Culiacan	MST	America/Chihuahua
+52	MEX	668	SIN	-7	Y	FSA-LSO	Los Mochis, Sin.qx	MST	America/Chihuahua
+52	MEX	669	SIN	-7	Y	FSA-LSO	Mazatlan	MST	America/Chihuahua
+52	MEX	671		-6	Y	FSA-LSO	Cuencame De Ceniceros  Cuencame ah	CST	America/Mexico_City
+52	MEX	672	SIN	-7	Y	FSA-LSO	Altatajm	MST	America/Chihuahua
+52	MEX	673	SIN	-7	Y	FSA-LSO	Benito Juareznv	MST	America/Chihuahua
+52	MEX	674		-6	Y	FSA-LSO	Canelas	CST	America/Mexico_City
+52	MEX	675		-6	Y	FSA-LSO	Cieneguilla	CST	America/Mexico_City
+52	MEX	676		-6	Y	FSA-LSO	Antonio Amaro  Saucillo hmj	CST	America/Mexico_City
+52	MEX	677		-6	Y	FSA-LSO	Abasolomvd	CST	America/Mexico_City
+52	MEX	686	BC	-8	Y	FSA-LSO	Mexicali, B.C.	PST	America/Tijuana
+52	MEX	687	SIN	-7	Y	FSA-LSO	Adolfo Ruiz Cortinesqj	MST	America/Chihuahua
+52	MEX	694	SIN	-7	Y	FSA-LSO	Agua Caliente De Garate  Agua Caliente k	MST	America/Chihuahua
+52	MEX	695	SIN	-7	Y	FSA-LSO	Concha, La  La Concepcion w	MST	America/Chihuahua
+52	MEX	696	SIN	-7	Y	FSA-LSO	Bolillo, Elg	MST	America/Chihuahua
+52	MEX	697	SIN	-7	Y	FSA-LSO	Angosturay	MST	America/Chihuahua
+52	MEX	698	SIN	-7	Y	FSA-LSO	Adolfo Lopez Mateos  Jahuara Segundo wfp	MST	America/Chihuahua
+52	MEX	711		-6	Y	FSA-LSO	Oro De Hidalgo, Elh	CST	America/Mexico_City
+52	MEX	712		-6	Y	FSA-LSO	Atlacomulco De Fabelahwk	CST	America/Mexico_City
+52	MEX	713		-6	Y	FSA-LSO	San Nicolas Tlazalah	CST	America/Mexico_City
+52	MEX	714		-6	Y	FSA-LSO	Chalma	CST	America/Mexico_City
+52	MEX	715		-6	Y	FSA-LSO	Heroica Zitacuaro	CST	America/Mexico_City
+52	MEX	716		-6	Y	FSA-LSO	Almoloya De Alquisiraswn	CST	America/Mexico_City
+52	MEX	717		-6	Y	FSA-LSO	Atlatlahucaffe	CST	America/Mexico_City
+52	MEX	718		-6	Y	FSA-LSO	Acambay	CST	America/Mexico_City
+52	MEX	719		-6	Y	FSA-LSO	Emiliano Zapata  Colonia Emiliano Zapata zv	CST	America/Mexico_City
+52	MEX	721		-6	Y	FSA-LSO	Ixtapan De La Salar	CST	America/Mexico_City
+52	MEX	722		-6	Y	FSA-LSO	Toluca, Mex.vg	CST	America/Mexico_City
+52	MEX	723		-6	Y	FSA-LSO	Chiltepec  Chiltepec De Hidalgo q	CST	America/Mexico_City
+52	MEX	724		-6	Y	FSA-LSO	Almoloya De Las Granadasy	CST	America/Mexico_City
+52	MEX	725		-6	Y	FSA-LSO	Cieneguillas De Guadalupeur	CST	America/Mexico_City
+52	MEX	726		-6	Y	FSA-LSO	Amanalco De Becerra	CST	America/Mexico_City
+52	MEX	727		-6	Y	FSA-LSO	Atenango Del Riobwn	CST	America/Mexico_City
+52	MEX	728		-6	Y	FSA-LSO	Lerma, Mex.puy	CST	America/Mexico_City
+52	MEX	729		-6	Y	FSA-LSO	Toluca, Mex.vg	CST	America/Mexico_City
+52	MEX	731		-6	Y	FSA-LSO	Amayucaj	CST	America/Mexico_City
+52	MEX	732		-6	Y	FSA-LSO	Ajuchitlan Del Progresowq	CST	America/Mexico_City
+52	MEX	733		-6	Y	FSA-LSO	Mayanalan	CST	America/Mexico_City
+52	MEX	734		-6	Y	FSA-LSO	Zacatepec, Mor.j	CST	America/Mexico_City
+52	MEX	735		-6	Y	FSA-LSO	Cuautla, Mor.aum	CST	America/Mexico_City
+52	MEX	736		-6	Y	FSA-LSO	Acapetlahuayazu	CST	America/Mexico_City
+52	MEX	737		-6	Y	FSA-LSO	Coatetelcodbf	CST	America/Mexico_City
+52	MEX	738		-6	Y	FSA-LSO	Alfajayucan	CST	America/Mexico_City
+52	MEX	739		-6	Y	FSA-LSO	Amatlan De Quetzalcoatl	CST	America/Mexico_City
+52	MEX	741		-6	Y	FSA-LSO	Acatepecvc	CST	America/Mexico_City
+52	MEX	742		-6	Y	FSA-LSO	Atoyac De Alvarezr	CST	America/Mexico_City
+52	MEX	743		-6	Y	FSA-LSO	Acayucasj	CST	America/Mexico_City
+52	MEX	744		-6	Y	FSA-LSO	Acapulco, Gro.g	CST	America/Mexico_City
+52	MEX	745		-6	Y	FSA-LSO	Ayutla De Los Libresj	CST	America/Mexico_City
+52	MEX	746		-6	Y	FSA-LSO	Benito Juarezgha	CST	America/Mexico_City
+52	MEX	747		-6	Y	FSA-LSO	Chilpancingo, Gro.tp	CST	America/Mexico_City
+52	MEX	748		-6	Y	FSA-LSO	Almoloyag	CST	America/Mexico_City
+52	MEX	749		-6	Y	FSA-LSO	Calpulalpanp	CST	America/Mexico_City
+52	MEX	751		-6	Y	FSA-LSO	Ahuehuetzingoae	CST	America/Mexico_City
+52	MEX	752	MOR	-6	Y	FSA-LSO	ATLATLAHUCAN	CST	America/Mexico_City
+52	MEX	753		-6	Y	FSA-LSO	Ciudad Lazaro Cardenas	CST	America/Mexico_City
+52	MEX	754		-6	Y	FSA-LSO	Apangoyy	CST	America/Mexico_City
+52	MEX	755		-6	Y	FSA-LSO	Zihuatanejo, Gro.	CST	America/Mexico_City
+52	MEX	756		-6	Y	FSA-LSO	Ahuacuotzingou	CST	America/Mexico_City
+52	MEX	757		-6	Y	FSA-LSO	Alcozauca De Guerreroswf	CST	America/Mexico_City
+52	MEX	758		-6	Y	FSA-LSO	Mesas, Lasuu	CST	America/Mexico_City
+52	MEX	759		-6	Y	FSA-LSO	Alberto, Elgi	CST	America/Mexico_City
+52	MEX	761		-6	Y	FSA-LSO	Bellavista Del Riokke	CST	America/Mexico_City
+52	MEX	762		-6	Y	FSA-LSO	Acamixtla	CST	America/Mexico_City
+52	MEX	763		-6	Y	FSA-LSO	Chapantongoqbn	CST	America/Mexico_City
+52	MEX	764		-6	Y	FSA-LSO	Nuevo Necaxaaze	CST	America/Mexico_City
+52	MEX	765		-6	Y	FSA-LSO	Alamosc	CST	America/Mexico_City
+52	MEX	766		-6	Y	FSA-LSO	Gutierrez Zamora	CST	America/Mexico_City
+52	MEX	767		-6	Y	FSA-LSO	Amuco De La Reformangv	CST	America/Mexico_City
+52	MEX	768		-6	Y	FSA-LSO	Amatlanctj	CST	America/Mexico_City
+52	MEX	769		-6	Y	FSA-LSO	Axochiapan	CST	America/Mexico_City
+52	MEX	771		-6	Y	FSA-LSO	Pachuca, Hgo.p	CST	America/Mexico_City
+52	MEX	772		-6	Y	FSA-LSO	Actopan	CST	America/Mexico_City
+52	MEX	773		-6	Y	FSA-LSO	Tepeji del Rio, Hgo.	CST	America/Mexico_City
+52	MEX	774		-6	Y	FSA-LSO	Agua Blanca Iturbide	CST	America/Mexico_City
+52	MEX	775		-6	Y	FSA-LSO	Singuilucan, Hgo.m	CST	America/Mexico_City
+52	MEX	776		-6	Y	FSA-LSO	Acaxochitlanr	CST	America/Mexico_City
+52	MEX	777		-6	Y	FSA-LSO	Cuernavaca, Mor.uq	CST	America/Mexico_City
+52	MEX	778		-6	Y	FSA-LSO	Ajacuba	CST	America/Mexico_City
+52	MEX	779		-6	Y	FSA-LSO	Plazas, Laswu	CST	America/Mexico_City
+52	MEX	781		-6	Y	FSA-LSO	Bajos Del Ejidovzi	CST	America/Mexico_City
+52	MEX	782		-6	Y	FSA-LSO	Poza Rica, Ver.	CST	America/Mexico_City
+52	MEX	783		-6	Y	FSA-LSO	Tuxpan, Ver.	CST	America/Mexico_City
+52	MEX	784		-6	Y	FSA-LSO	Adolfo Ruiz Cortinesvha	CST	America/Mexico_City
+52	MEX	785		-6	Y	FSA-LSO	Cerro Azulsc	CST	America/Mexico_City
+52	MEX	786		-6	Y	FSA-LSO	Agostitlanzrp	CST	America/Mexico_City
+52	MEX	789		-6	Y	FSA-LSO	Atlapexcouk	CST	America/Mexico_City
+52	MEX	791		-6	Y	FSA-LSO	Cides, Losfyu	CST	America/Mexico_City
+52	MEX	797		-6	Y	FSA-LSO	Ahuacatlan	CST	America/Mexico_City
+52	MEX	810		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	811		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	812		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	813		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	814		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	815		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	816		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	817		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	818		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	819		-6	Y	FSA-LSO	Monterrey, N.L. y Zonas Conurbadas	CST	America/Mexico_City
+52	MEX	821		-6	Y	FSA-LSO	Guadalupe  Hacienda De Guadalupe, La ywx	CST	America/Mexico_City
+52	MEX	823		-6	Y	FSA-LSO	Chinaen	CST	America/Mexico_City
+52	MEX	824		-6	Y	FSA-LSO	Ciudad Sabinas Hidalgohp	CST	America/Mexico_City
+52	MEX	825		-6	Y	FSA-LSO	Cienega De Florespqs	CST	America/Mexico_City
+52	MEX	826		-6	Y	FSA-LSO	Aramberri	CST	America/Mexico_City
+52	MEX	827	MON	-6	Y	FSA-LSO	SANTIAGO, EL CERCADO	CST	America/Mexico_City
+52	MEX	828		-6	Y	FSA-LSO	Barranquito, Elq	CST	America/Mexico_City
+52	MEX	829		-6	Y	FSA-LSO	Bustamantes	CST	America/Mexico_City
+52	MEX	831		-6	Y	FSA-LSO	Ciudad Mante, Tamps.q	CST	America/Mexico_City
+52	MEX	832		-6	Y	FSA-LSO	Adolfo Lopez Mateos  Chamal Nuevo 	CST	America/Mexico_City
+52	MEX	833		-6	Y	FSA-LSO	Tampico, Tamps.n	CST	America/Mexico_City
+52	MEX	834		-6	Y	FSA-LSO	Ciudad Victoria, Tamps.	CST	America/Mexico_City
+52	MEX	835		-6	Y	FSA-LSO	Abasology	CST	America/Mexico_City
+52	MEX	836		-6	Y	FSA-LSO	Aldamah	CST	America/Mexico_City
+52	MEX	841		-6	Y	FSA-LSO	Burgosaue	CST	America/Mexico_City
+52	MEX	842		-6	Y	FSA-LSO	Concepcion Del Oror	CST	America/Mexico_City
+52	MEX	844		-6	Y	FSA-LSO	Saltillo, Coah.p	CST	America/Mexico_City
+52	MEX	845		-6	Y	FSA-LSO	Ebanopf	CST	America/Mexico_City
+52	MEX	846		-6	Y	FSA-LSO	Chijol 17ry	CST	America/Mexico_City
+52	MEX	861		-6	Y	FSA-LSO	Sabinas, Coah.j	CST	America/Mexico_City
+52	MEX	862		-6	Y	FSA-LSO	Allendeby	CST	America/Mexico_City
+52	MEX	864		-6	Y	FSA-LSO	Ciudad Melchor Muzquiztzc	CST	America/Mexico_City
+52	MEX	866		-6	Y	FSA-LSO	Monclova, Coah.	CST	America/Mexico_City
+52	MEX	867		-6	Y	FSA-LSO	Nuevo Laredo, Tamps.ef	CST	America/Mexico_City
+52	MEX	868		-6	Y	FSA-LSO	Matamoros, Tamps.yjv	CST	America/Mexico_City
+52	MEX	869		-6	Y	FSA-LSO	Cuatrocienegas De Carranzaabw	CST	America/Mexico_City
+52	MEX	871		-6	Y	FSA-LSO	Torreon	CST	America/Mexico_City
+52	MEX	872		-6	Y	FSA-LSO	Bermejillo	CST	America/Mexico_City
+52	MEX	873		-6	Y	FSA-LSO	Anahuacrvg	CST	America/Mexico_City
+52	MEX	877		-6	Y	FSA-LSO	Ciudad Acuqaepb	CST	America/Mexico_City
+52	MEX	878		-6	Y	FSA-LSO	Jimenez	CST	America/Mexico_City
+52	MEX	891		-6	Y	FSA-LSO	Ciudad Camargo	CST	America/Mexico_City
+52	MEX	892		-6	Y	FSA-LSO	Agualeguasmg	CST	America/Mexico_City
+52	MEX	894		-6	Y	FSA-LSO	Anahuacsr	CST	America/Mexico_City
+52	MEX	897		-6	Y	FSA-LSO	Arcabuzsmf	CST	America/Mexico_City
+52	MEX	899		-6	Y	FSA-LSO	Reynosa, Tamps.	CST	America/Mexico_City
+52	MEX	913		-6	Y	FSA-LSO	Cuauhtemocg	CST	America/Mexico_City
+52	MEX	914		-6	Y	FSA-LSO	Ayapaqi	CST	America/Mexico_City
+52	MEX	916		-6	Y	FSA-LSO	Catazajatkr	CST	America/Mexico_City
+52	MEX	917		-6	Y	FSA-LSO	Chontalpa  Estacion Chontalpa s	CST	America/Mexico_City
+52	MEX	918		-6	Y	FSA-LSO	Acacoyagua	CST	America/Mexico_City
+52	MEX	919		-6	Y	FSA-LSO	Altamirano	CST	America/Mexico_City
+52	MEX	921		-6	Y	FSA-LSO	Coatzacoalcos, Ver.wer	CST	America/Mexico_City
+52	MEX	922		-6	Y	FSA-LSO	Chinameca, Ver.ewa	CST	America/Mexico_City
+52	MEX	923		-6	Y	FSA-LSO	Agua Dulcen	CST	America/Mexico_City
+52	MEX	924		-6	Y	FSA-LSO	24 De Febrerow	CST	America/Mexico_City
+52	MEX	932		-6	Y	FSA-LSO	Ixtacomitanrid	CST	America/Mexico_City
+52	MEX	933		-6	Y	FSA-LSO	Carlos Greene 1 Ra. Secciongep	CST	America/Mexico_City
+52	MEX	934		-6	Y	FSA-LSO	Arena De Hidalgoe	CST	America/Mexico_City
+52	MEX	936		-6	Y	FSA-LSO	Benito Juarez  San Carlos cfp	CST	America/Mexico_City
+52	MEX	937		-6	Y	FSA-LSO	Cardenas	CST	America/Mexico_City
+52	MEX	938		-6	Y	FSA-LSO	Ciudad del Carmen, Camp.	CST	America/Mexico_City
+52	MEX	951		-6	Y	FSA-LSO	Oaxaca, Oax.p	CST	America/Mexico_City
+52	MEX	953		-6	Y	FSA-LSO	Acatlan De Osoriotsb	CST	America/Mexico_City
+52	MEX	954		-6	Y	FSA-LSO	Bajos De Chilad	CST	America/Mexico_City
+52	MEX	958		-6	Y	FSA-LSO	Candelaria Loxichab	CST	America/Mexico_City
+52	MEX	961		-6	Y	FSA-LSO	Tuxtla Gutierrez	CST	America/Mexico_City
+52	MEX	962		-6	Y	FSA-LSO	Tapachula, Chis.uid	CST	America/Mexico_City
+52	MEX	963		-6	Y	FSA-LSO	Chicomuselopj	CST	America/Mexico_City
+52	MEX	964		-6	Y	FSA-LSO	Buenos Airesuwv	CST	America/Mexico_City
+52	MEX	965		-6	Y	FSA-LSO	Cristobal Obregonhd	CST	America/Mexico_City
+52	MEX	966		-6	Y	FSA-LSO	Arriagaeiy	CST	America/Mexico_City
+52	MEX	967		-6	Y	FSA-LSO	Candelaria, Laq	CST	America/Mexico_City
+52	MEX	968		-6	Y	FSA-LSO	Cintalapa De Figueroack	CST	America/Mexico_City
+52	MEX	969		-6	Y	FSA-LSO	Campestre Flamboyanesref	CST	America/Mexico_City
+52	MEX	971		-6	Y	FSA-LSO	Ixtepec, Oax.f	CST	America/Mexico_City
+52	MEX	972		-6	Y	FSA-LSO	Barrio De La Soledad, El	CST	America/Mexico_City
+52	MEX	981		-6	Y	FSA-LSO	Campeche, Camp.g	CST	America/Mexico_City
+52	MEX	982		-6	Y	FSA-LSO	Candelaria	CST	America/Mexico_City
+52	MEX	983		-6	Y	FSA-LSO	Chetumal, Q.Rooqzh	CST	America/Mexico_City
+52	MEX	984		-6	Y	FSA-LSO	Akumalb	CST	America/Mexico_City
+52	MEX	985		-6	Y	FSA-LSO	Chemaxj	CST	America/Mexico_City
+52	MEX	986		-6	Y	FSA-LSO	Colonia Yucatane	CST	America/Mexico_City
+52	MEX	987		-6	Y	FSA-LSO	Cozumelxmg	CST	America/Mexico_City
+52	MEX	988		-6	Y	FSA-LSO	Acanceh	CST	America/Mexico_City
+52	MEX	991		-6	Y	FSA-LSO	Bacaic	CST	America/Mexico_City
+52	MEX	992		-6	Y	FSA-LSO	Benito Juarezwvz	CST	America/Mexico_City
+52	MEX	993		-6	Y	FSA-LSO	Villahermosa, Tab.d	CST	America/Mexico_City
+52	MEX	994		-6	Y	FSA-LSO	Cabeza De Torog	CST	America/Mexico_City
+52	MEX	995		-6	Y	FSA-LSO	Camaron, El	CST	America/Mexico_City
+52	MEX	996		-6	Y	FSA-LSO	Becalcu	CST	America/Mexico_City
+52	MEX	997		-6	Y	FSA-LSO	Akilm	CST	America/Mexico_City
+52	MEX	998		-6	Y	FSA-LSO	Cancun	CST	America/Mexico_City
+52	MEX	999		-6	Y	FSA-LSO	Merida	CST	America/Mexico_City
+53	CUB	*		-5	N		Cuba	EST	America/Havana
+54	ARG	*		-3	N		Argentina	ART	America/Argentina/Buenos_Aires
+55	BRA	*		-3	Y	TSO-LSF	Brazil	BRT	America/Sao_Paulo
+56	CHL	*		-4	Y	SSO-SSM	Chile	CLT	America/Santiago
+57	COL	*		-5	N		Columbia	COT	America/Bogota
+58	VEN	*		-4	N		Venezuela	VET	America/Caracas
+60	MYS	*		+8	N		Malaysia	MYT	Asia/Kuala_Lumpur
+61	AUS	2	NS	+10	Y	FSO-FSA	New South Wales & Capitol	AEST	Australia/Sydney
+61	AUS	3	VI	+10	Y	FSO-FSA	Victoria	AEST	Australia/Sydney
+61	AUS	5		+10	Y	FSO-FSA	Prefix 5 nonexistant	AEST	Australia/Sydney
+61	AUS	7	QL	+10	N		Queensland	AEST	Australia/Brisbane
+61	AUS	36	TA	+10	Y	FSO-FSA	Tasmania	AEST	Australia/Sydney
+61	AUS	80	SA	+9.5	Y	FSO-FSA	Southern Australia	ACST	Australia/Adelaide
+61	AUS	81	SA	+9.5	Y	FSO-FSA	Southern Australia	ACST	Australia/Adelaide
+61	AUS	82	WA	+8	N		Western Australia	AWST	Australia/Perth
+61	AUS	83	SA	+9.5	Y	FSO-FSA	Southern Australia	ACST	Australia/Adelaide
+61	AUS	84	WA	+8	N		Western Australia	AWST	Australia/Perth
+61	AUS	85	SA	+9.5	Y	FSO-FSA	Southern Australia	ACST	Australia/Adelaide
+61	AUS	86	WA	+8	N		Western Australia	AWST	Australia/Perth
+61	AUS	88	SA	+9.5	Y	FSO-FSA	Southern Australia	ACST	Australia/Adelaide
+61	AUS	89	WA	+8	N		Western Australia	AWST	Australia/Perth
+61	AUS	889	NT	+9.5	N		Northern Territory	ACST	Australia/Darwin
+61	AUS	4S	WA	+8	N		Mobile numbers Western Australia	AWST	Australia/Perth
+61	AUS	4S	NT	+9.5	N		Mobile numbers Northern Territory	ACST	Australia/Darwin
+61	AUS	4S	SA	+9.5	Y	FSO-FSA	Mobile numbers South Australia	ACST	Australia/Adelaide
+61	AUS	4S	TA	+10	Y	FSO-FSA	Mobile numbers Tasmania	AEST	Australia/Sydney
+61	AUS	4S	AC	+10	Y	FSO-FSA	Mobile numbers Capitol	AEST	Australia/Sydney
+61	AUS	4S	NS	+10	Y	FSO-FSA	Mobile numbers New South Wales	AEST	Australia/Sydney
+61	AUS	4S		+10	Y	FSO-FSA	Mobile numbers No State Given	AEST	Australia/Sydney
+61	AUS	4S	QL	+10	N		Mobile numbers Queensland	AEST	Australia/Brisbane
+61	AUS	4S	VI	+10	Y	FSO-FSA	Mobile numbers Victoria	AEST	Australia/Sydney
+62	IDN	*		+7	N		Indonesia	WIB	Asia/Jakarta
+63	PHL	*		+8	N		Philippines	PHT	Asia/Manila
+64	NZL	*		+12	Y	FSO-TSM	New Zealand	NZST	Pacific/Auckland
+65	SGP	*		+8	N		Singapore	SGT	Asia/Singapore
+66	THA	*		+7	N		Thailand	ICT	Asia/Bangkok
+81	JPN	*		+9	N		Japan	JST	Asia/Tokyo
+82	KOR	*		+9	N		Korea  South	KST	Asia/Seoul
+84	VNM	*		+7	N		Vietnam	ICT	Asia/Ho_Chi_Minh
+86	CHN	*		+8	N		China	CST	Asia/Shanghai
+90	TUR	*		+3	N		Turkey	TRT	Europe/Istanbul
+91	IND	*		+5.5	N		India	IST	Asia/Kolkata
+92	PAK	*		+5	N		Pakistan	PKT	Asia/Karachi
+93	AFG	*		+4.5	N		Afghanistan	AFT	Asia/Kabul
+94	LKA	*		+5.5	N		Sri Lanka	IST	Asia/Colombo
+95	MMR	*		+6.5	N		Myanmar Burma	MMT	Asia/Yangon
+98	IRN	*		+3.5	N		Iran	IRST	Asia/Tehran
+211	SSD	*		+3	N		South Sudan	EAT	Africa/Juba
+212	MAR	*		0	N		Morocco	WET	Africa/Casablanca
+213	DZA	*		+1	N		Algeria	CET	Africa/Algiers
+216	TUN	*		+1	N		Tunisia	CET	Africa/Tunis
+218	LBY	*		+1	N		Libya	CET	Africa/Tripoli
+220	GMB	*		0	N		Gambia	GMT	Africa/Banjul
+221	SEN	*		0	N		Senegal	GMT	Africa/Dakar
+222	MRT	*		0	N		Mauritania	GMT	Africa/Nouakchott
+223	MLI	*		0	N		Mali	GMT	Europe/Malta
+224	GIN	*		0	N		Guinea	GMT	Africa/Conakry
+225	CIV	*		0	N		Cote d Ivorie Ivory Coast	GMT	Africa/Abidjan
+226	BFA	*		0	N		Bukina Faso	GMT	Africa/Ouagadougou
+227	NER	*		+1	N		Niger Republic	WAT	Africa/Niamey
+228	TGO	*		0	N		Togo	GMT	Africa/Lome
+229	BEN	*		+1	N		Benin	WAT	Africa/Porto-Novo
+230	MUS	*		+4	N		Mauritius	MUT	Indian/Mauritius
+231	LBR	*		0	N		Liberia	GMT	Africa/Monrovia
+232	SLE	*		0	N		Sierra Leone	GMT	Africa/Freetown
+233	GHA	*		0	N		Ghana	GMT	Africa/Accra
+234	NGA	*		+1	N		Nigeria	WAT	Africa/Lagos
+235	TCD	*		+1	N		Chad	WAT	Africa/Ndjamena
+236	CAF	*		+1	N		Central African Republic	WAT	Africa/Bangui
+237	CMR	*		+1	N		Cameroon	WAT	Africa/Douala
+238	CPV	*		-1	N		Cape Verde Islands	CVT	Atlantic/Cape_Verde
+239	STP	*		0	N		Sao Tome and Principe	GMT	Africa/Sao_Tome
+240	GNQ	*		+1	N		Equatorial Guinea	WAT	Africa/Malabo
+241	GAB	*		+1	N		Gabon	WAT	Africa/Libreville
+242	COG	*		+1	N		Congo	WAT	Africa/Brazzaville
+243	COD	*		+1	N		Zaire Congo	WAT	Africa/Kinshasa
+244	AGO	*		+1	N		Angola	WAT	Africa/Luanda
+245	GNB	*		0	N		Guinea - Bissau	GMT	Africa/Bissau
+246	IOT	*		+6	N		British Indian Ocean Territory	BST	Indian/Chagos
+247	ASC	*		0	N		Ascension Island	GMT	Atlantic/St_Helena
+248	SYC	*		+4	N		Seychelles	SCT	Indian/Mahe
+249	SDN	*		+3	N		Sudan	EAT	Africa/Khartoum
+250	RWA	*		+2	N		Rwanda	CAT	Africa/Kigali
+251	ETH	*		+3	N		Ethiopia	EAT	Africa/Addis_Ababa
+252	SOM	*		+3	N		Somalia	EAT	Africa/Mogadishu
+253	DJI	*		+3	N		Djibouti	EAT	Africa/Djibouti
+254	KEN	*		+3	N		Kenya	EAT	Africa/Nairobi
+255	TZA	*		+3	N		Tanzania	EAT	Africa/Dar_es_Salaam
+256	UGA	*		+3	N		Uganda	EAT	Africa/Kampala
+257	BDI	*		+2	N		Burundi	CAT	Africa/Bujumbura
+258	MOZ	*		+2	N		Mozambique	CAT	Africa/Maputo
+260	ZMB	*		+2	N		Zambia	CAT	Africa/Lusaka
+261	MDG	*		+3	N		Madagascar	EAT	Indian/Antananarivo
+262	MYT	*		+3	N		Reunion and Mayotte	EAT	Indian/Mayotte
+263	ZWE	*		+2	N		Zimbabwe	CAT	Africa/Harare
+264	NAM	*		+2	N		Namibia	CAT	Africa/Windhoek
+265	MWI	*		+2	N		Malawi	CAT	Africa/Blantyre
+266	LSO	*		+2	N		Lesotho	CAT	Africa/Maseru
+267	BWA	*		+2	N		Botswana	CAT	Africa/Gaborone
+268	SWZ	*		+2	N		Swaziland	CAT	Africa/Mbabane
+269	COM	*		+3	N		Comoros	EAT	Indian/Comoro
+290	SHN	*		0	N		St Helena	GMT	Atlantic/St_Helena
+291	ERI	*		+3	N		Eritrea	EAT	Africa/Asmara
+297	ABW	*		-4	N		Aruba	AST	America/Aruba
+298	FRO	*		0	N		Faroe Islands	GMT	Atlantic/Faroe
+299	GRL	*		-1	Y	LSM-LSO	Greenland	EGT	America/Thule
+349	ESP	*		+1	Y	LSM-LSO	Spain	CET	Europe/Madrid
+350	GIB	*		+1	Y	LSM-LSO	Gibraltar	CET	Europe/Gibraltar
+351	PRT	*		0	Y	LSM-LSO	Portugal	WET	Europe/Lisbon
+352	LUX	*		+1	Y	LSM-LSO	Luxembourg	CET	Europe/Luxembourg
+353	IRL	*		0	Y	LSM-LSO	Ireland	IST	Europe/Dublin
+354	ISL	*		0	N		Iceland	GMT	Atlantic/Reykjavik
+355	ALB	*		+1	Y	LSM-LSO	Albania	CET	Europe/Tirane
+356	MLT	*		+1	Y	LSM-LSO	Malta	CET	Europe/Malta
+357	CYP	*		+2	Y	LSM-LSO	Cyprus	EET	Asia/Nicosia
+358	FIN	*		+2	Y	LSM-LSO	Finland	EET	Europe/Helsinki
+359	BGR	*		+2	Y	LSM-LSO	Bulgaria	EET	Europe/Sofia
+370	LTU	*		+2	Y	LSM-LSO	Lithuania	EET	Europe/Vilnius
+371	LVA	*		+2	Y	LSM-LSO	Latvia	EET	Europe/Riga
+372	EST	*		+2	Y	LSM-LSO	Estonia	EET	Europe/Tallinn
+373	MDA	*		+2	Y	LSM-LSO	Moldovia	EET	Europe/Chisinau
+374	ARM	*		+4	Y	LSM-LSO	Armenia	AMT	Asia/Yerevan
+375	BLR	*		+2	Y	LSM-LSO	Belarus	EET	Europe/Minsk
+376	AND	*		+1	Y	LSM-LSO	Andorra	CET	Europe/Andorra
+377	MCO	*		+1	Y	LSM-LSO	Monaco	CET	Europe/Monaco
+378	SMR	*		+1	Y	LSM-LSO	San Marino	CET	Europe/San_Marino
+379	VAT	*		+1	Y	LSM-LSO	Vatican City State	CET	Europe/Vatican
+380	UKR	*		+2	Y	LSM-LSO	Ukraine	EET	Europe/Kiev
+381	SRB	*		+1	Y	LSM-LSO	Serbia	CET	Europe/Belgrade
+382	MNE	*		+1	Y	LSM-LSO	Montenegro	CET	Europe/Podgorica
+383	XKX	*		+1	Y	LSM-LSO	Kosovo	CET	Europe/Belgrade
+385	HRV	*		+1	Y	LSM-LSO	Croatia	CET	Europe/Zagreb
+386	SVN	*		+1	Y	LSM-LSO	Slovenia	CET	Europe/Ljubljana
+387	BIH	*		+1	Y	LSM-LSO	Bosnia Hercegovina	CET	Europe/Sarajevo
+389	MKD	*		+1	Y	LSM-LSO	Macedonia	CET	Europe/Skopje
+420	CZE	*		+1	Y	LSM-LSO	Czech Republic	CET	Europe/Prague
+421	SVK	*		+1	Y	LSM-LSO	Slovakia	CET	Europe/Bratislava
+423	LIE	*		+1	Y	LSM-LSO	Lichtenstein	CET	Europe/Vaduz
+500	FLK	*		-4	Y	FSS-TSA	Falkland Islands	FKT	Atlantic/Stanley
+501	BLZ	*		-6	N		Belize	CST	America/Belize
+502	GTM	*		-6	N		Guatemala	CST	America/Guatemala
+503	SLV	*		-6	N		El Salvador	CST	America/El_Salvador
+504	HND	*		-6	N		Honduras	CST	America/Tegucigalpa
+505	NIC	*		-6	N		Nicaragua	CST	America/Managua
+506	CRI	*		-6	N		Costa Rica	CST	America/Costa_Rica
+507	PAN	*		-5	N		Panama	EST	America/Panama
+508	SPM	*		-3	Y	SSM-FSN	Saint Pierre and Miquelon	PMST	America/Miquelon
+509	HTI	*		-5	Y	SSM-FSN	Haiti	EST	America/Port-au-Prince
+590	GLP	*		-4	N		Guadeloupe	AST	America/Guadeloupe
+591	BOL	*		-4	N		Bolivia	BOT	America/La_Paz
+592	GUY	*		-4	N		Guyana	AST	America/Guyana
+593	ECU	*		-5	N		Ecuador	ECT	America/Guayaquil
+594	GUF	*		-3	N		French Guiana	GFT	America/Cayenne
+595	PRY	*		-4	Y	SSO-SSM	Paraguay	PYT	America/Asuncion
+596	MTQ	*		-4	N		Martinique	AST	America/Martinique
+597	SUR	*		-3	N		Suriname	SRT	America/Paramaribo
+598	URY	*		-3	Y	FSO-SSM	Uruguay	UYT	America/Montevideo
+599	CUW	*		-4	N		Netherlands Antilles	AST	America/Curacao
+649	PCN	*		-8	N		Pitcain Island	PST	Pacific/Pitcairn
+670	TLS	*		+9	N		Timor-Leste	TLT	Asia/Dili
+671	GUM	*		+10	N		Guam	GST	Pacific/Guam
+672	ATA	*		+8	N		Antarctic Aus Territory	CAST	Antarctica/Davis
+672	CCK	*		+6.5	N		Cocos Island	CCT	Indian/Cocos
+672	CXR	*		+7	N		Christmas Island	CXT	Indian/Christmas
+673	BRN	*		+8	N		Brunei Darussalam	BNT	Asia/Brunei
+674	NRU	*		-12	N		Nauru	NRT	Pacific/Nauru
+675	PNG	*		+10	N		Papua New Guinea	PGT	Pacific/Port_Moresby
+676	TON	*		+13	N		Tonga	TST	Pacific/Tongatapu
+677	SLB	*		-11	N		Solomon Islands	SBT	Pacific/Guadalcanal
+678	VUT	*		-11	N		Vanuatu	VUT	Pacific/Efate
+679	FJI	*		+12	N		Fiji	FJT	Pacific/Fiji
+680	PLW	*		+9	N		Palau	PWT	Pacific/Palau
+681	WLF	*		+12	N		Wallis and Futuna	WFT	Pacific/Wallis
+682	COK	*		+10.5	N		Cook Islands	CKT	Pacific/Rarotonga
+683	NIU	*		-11	N		Niue Island	NUT	Pacific/Niue
+684	ASM	*		-11	N		Samoa USA	SST	Pacific/Pago_Pago
+685	WSM	*		-11	N		Samoa Western	WST	Pacific/Apia
+686	KIR	*		+12	N		Kiribati	GILT	Pacific/Kiritimati
+687	NCL	*		+11	N		New Caledonia	NCT	Pacific/Noumea
+688	TUV	*		-12	N		Tuvalu	TVT	Pacific/Funafuti
+689	PYF	*		+9	N		French Polynesia	GAMT	Pacific/Tahiti
+690	TKL	*		-10	N		Tokelau	TKT	Pacific/Fakaofo
+691	FSM	*		+11	N		Micronesia	PONT	Pacific/Pohnpei
+692	MHL	*		+12	N		Marshall Islands	MHT	Pacific/Majuro
+850	PRK	*		+9	N		Korea North	KST	Asia/Pyongyang
+852	HKG	*		+8	N		Hong Kong	HKT	Asia/Hong_Kong
+853	MAC	*		+8	N		Macao	CST	Asia/Macau
+855	KHM	*		+7	N		Cambodia	ICT	Asia/Phnom_Penh
+856	LAO	*		+7	N		Laos	ICT	Asia/Vientiane
+870	PCN	*		-8	N		Pitcain Island	PST	Pacific/Pitcairn
+880	BGD	*		+6	N		Bangladesh	BST	Asia/Dhaka
+886	TWN	*		+8	N		Taiwan	CST	Asia/Taipei
+960	MDV	*		+5	N		Maldives	MVT	Indian/Maldives
+961	LBN	*		+2	Y	LSM-LSO	Lebanon	EET	Asia/Beirut
+962	JOR	*		+2	Y	LSM-LSO	Jordan	EET	Asia/Amman
+963	SYR	*		+2	Y	LSM-LSO	Syria	EET	Asia/Damascus
+964	IRQ	*		+3	Y	FDA-FDO	Iraq	AST	Asia/Baghdad
+965	KWT	*		+3	N		Kuwait	AST	Asia/Kuwait
+966	SAU	*		+3	N		Saudi Arabia	AST	Asia/Riyadh
+967	YEM	*		+3	N		Yemen	AST	Asia/Aden
+968	OMN	*		+4	N		Oman	GST	Asia/Muscat
+970	PSE	*		+2	Y	LFM-TSS	Palestine	IST	Asia/Jerusalem
+971	ARE	*		+4	N		United Arab Emirates	GST	Asia/Dubai
+972	ISR	*		+2	Y	LFM-TSS	Israel	IST	Asia/Jerusalem
+973	BHR	*		+3	N		Bahrain	AST	Asia/Bahrain
+974	QAT	*		+3	N		Qatar	AST	Asia/Qatar
+975	BTN	*		+6	N		Bhutan	BTT	Asia/Thimphu
+976	MNG	*		+8	N		Mongolia	ULAT	Asia/Ulaanbaatar
+977	NPL	*		+5.75	N		Nepal	NPT	Asia/Kathmandu
+992	TJK	*		+5	N		Tajikistan	TJT	Asia/Dushanbe
+993	TKM	*		+5	N		Turkmenistan	TMT	Asia/Ashgabat
+994	AZE	*		+1	Y	LSM-LSO	Azerbaijan	AZT	Asia/Baku
+995	GEO	*		+4	N		Georgia	GET	Asia/Tbilisi
+996	KGZ	*		+5	N		Kyrgyz Republic	UZT	Asia/Bishkek
+998	UZB	*		+5	N		Uzbekistan	UZT	Asia/Tashkent
